@@ -1,11 +1,19 @@
-# IR
-Information Retrieval Experiments
+# Information Retrieval Experiments
+ - Lexical Retrieval : [Scifact & SciDocs & Fever](/experiments/lexical_scidocs_scifact_fever.ipynb)
+ - Sparse Retrieval : [Scifact](/experiments/dense_scifact.ipynb), [SciDocs](/experiments/dense_scidocs.ipynb)
+ - Dense Retrieval : [Scifact](/experiments/sparse_scifact.ipynb), [SciDocs](/experiments/sparse_scidocs.ipynb)
 
 
-## References
+#### References
 
- - [Macdonald20]: Craig Macdonald, Nicola Tonellotto. Declarative Experimentation in Information Retrieval using PyTerrier. Craig Macdonald and Nicola Tonellotto. In Proceedings of ICTIR 2020. https://arxiv.org/abs/2007.14271
- - [Khattab20]: Omar Khattab, Matei Zaharia. ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. In Proceedings of SIGIR 2020. https://arxiv.org/abs/2004.12832
- - [Wang21]: Xiao Wang, Craig Macdonald, Nicola Tonellotto, Iadh Ounis. Pseudo-Relevance Feedback for Multiple Representation Dense Retrieval. In Proceedings of ICTIR 2021. https://arxiv.org/abs/2106.11251
- - [Nogueira21]: Ronak Pradeep, Rodrigo Nogueira, and Jimmy Lin. The Expando-Mono-Duo Design Pattern for Text Ranking withPretrained Sequence-to-Sequence Models. https://arxiv.org/abs/2101.05667
- - [boytsov2020flexible]: Leonid Boytsov and Eric Nyberg. Flexible retrieval with NMSLIB and FlexNeuART. https://arxiv.org/abs/2010.14848
+
+##### Datasets:
+- Wadden, David & Lo, Kyle & Wang, Lucy & Lin, Shanchuan & Zuylen, Madeleine & Cohan, Arman & Hajishirzi, Hannaneh. (2020). Fact or Fiction: Verifying Scientific Claims. 
+- Thorne, James & Vlachos, Andreas & Christodoulopoulos, Christos & Mittal, Arpit. (2018). FEVER: a large-scale dataset for Fact Extraction and VERification. 10.18653/v1/N18-1074. 
+- Cohan, Arman & Feldman, Sergey & Beltagy, Iz & Downey, Doug & Weld, Daniel. (2020). SPECTER: Document-level Representation Learning using Citation-informed Transformers. 2270-2282. 10.18653/v1/2020.acl-main.207. 
+
+
+##### APIs:
+- Thakur, Nandan & Reimers, Nils & Rücklé, Andreas & Srivastava, Abhishek & Gurevych, Iryna. (2021). BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models. 
+- Macdonald, Craig & Tonellotto, Nicola. (2020). Declarative Experimentation in Information Retrieval using PyTerrier. 161-168. 10.1145/3409256.3409829. 
+- Boytsov, Leonid & Nyberg, Eric. (2020). Flexible retrieval with NMSLIB and FlexNeuART. 
