@@ -1,7 +1,7 @@
 # Information Retrieval Experiments
  - Lexical Retrieval : [Scifact & SciDocs & Fever](/experiments/lexical_scidocs_scifact_fever.ipynb)
- - Sparse Retrieval : [Scifact](/experiments/dense_scifact.ipynb), [SciDocs](/experiments/dense_scidocs.ipynb)
- - Dense Retrieval : [Scifact](/experiments/sparse_scifact.ipynb), [SciDocs](/experiments/sparse_scidocs.ipynb)
+ - Dense Retrieval : [Scifact](/experiments/dense_scifact.ipynb), [SciDocs](/experiments/dense_scidocs.ipynb)
+ - Sparse Retrieval : [Scifact](/experiments/sparse_scifact.ipynb), [SciDocs](/experiments/sparse_scidocs.ipynb)
 
 
 #### References
