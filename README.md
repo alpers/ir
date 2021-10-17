@@ -1,16 +1,10 @@
 # Information Retrieval Experiments
- - Lexical Retrieval : [Scifact & SciDocs & Fever](/experiments/lexical_scidocs_scifact_fever.ipynb)
- - Dense Retrieval : [Scifact](/experiments/dense_scifact.ipynb), [SciDocs](/experiments/dense_scidocs.ipynb)
- - Sparse Retrieval : [Scifact](/experiments/sparse_scifact.ipynb), [SciDocs](/experiments/sparse_scidocs.ipynb)
+ - Lexical Retrieval : [Scientific Documents](/experiments/lexical_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/lexical_retrieval_others.ipynb)
+ - Sparse Retrieval : [Scientific Documents](/experiments/sparse_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/sparse_retrieval_others.ipynb)
+ - **Dense Retrieval** : [Scientific Documents](/experiments/dense_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/dense_retrieval_others.ipynb)
 
 
 #### References
-
-
-##### Datasets:
-- Wadden, David & Lo, Kyle & Wang, Lucy & Lin, Shanchuan & Zuylen, Madeleine & Cohan, Arman & Hajishirzi, Hannaneh. (2020). Fact or Fiction: Verifying Scientific Claims. 
-- Thorne, James & Vlachos, Andreas & Christodoulopoulos, Christos & Mittal, Arpit. (2018). FEVER: a large-scale dataset for Fact Extraction and VERification. 10.18653/v1/N18-1074. 
-- Cohan, Arman & Feldman, Sergey & Beltagy, Iz & Downey, Doug & Weld, Daniel. (2020). SPECTER: Document-level Representation Learning using Citation-informed Transformers. 2270-2282. 10.18653/v1/2020.acl-main.207. 
 
 
 ##### APIs:
