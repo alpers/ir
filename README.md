@@ -1,8 +1,8 @@
-# Information Retrieval Experiments
+# Semantic Search
 
 #### Experiments
 
- - Lexical Retrieval : [Scientific Documents](/experiments/lexical_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/lexical_retrieval_others.ipynb)
+ - BM25 + Reranking : [Scientific Documents](/experiments/reranking_scientific.ipynb), [Miscellaneous Datasets](/experiments/reranking_others.ipynb)
  - Sparse Retrieval : [Scientific Documents](/experiments/sparse_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/sparse_retrieval_others.ipynb)
  - **Dense Retrieval** : [Scientific Documents](/experiments/dense_retrieval_scientific.ipynb), [Miscellaneous Datasets](/experiments/dense_retrieval_others.ipynb)
 
